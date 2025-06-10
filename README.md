@@ -8,7 +8,7 @@ Soy un desarrollador backend con experiencia en tecnologías modernas como Node.
 
 ## 🌟 Sobre mí
 - 🎯 Actualmente: **Backend Developer en Picnic Comunicación Creativa**.
-- 🔧 Tecnologías: Node.js, Express.js, MySQL, MongoDB, JWT, AWS (EC2, S3), Azure DevOps.
+- 🔧 Tecnologías: Node.js, Express.js, Nest.js MySQL, MongoDB, JWT, AWS (EC2, S3), Azure DevOps.
 - 🌱 Aprendiendo: AWS Lambda y arquitectura serverless.
 - 🎨 Filosofía: **Clean Code** y principios **DRY** para un desarrollo sostenible y eficiente.
 - 📍 Ubicación: Miraflores, Lima, Perú.
@@ -19,7 +19,7 @@ Soy un desarrollador backend con experiencia en tecnologías modernas como Node.
 
 | 💻 **Lenguajes**       | 🛠️ **Frameworks** | ☁️ **Cloud & DevOps**   | 🗄️ **Bases de Datos**     |
 |------------------------|--------------------|-------------------------|---------------------------|
-| JavaScript             | Node.js, Express.js| AWS (EC2, S3), Azure    | MySQL, MongoDB, Sequelize |
+| JavaScript             | Express.js, Nest.js| AWS (EC2, S3), Azure    | MySQL, MongoDB, Sequelize |
 | Bash                   |                    | Google Cloud, Docker    | Redis (aprendiendo)       |
 
 
