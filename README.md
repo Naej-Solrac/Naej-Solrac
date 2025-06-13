@@ -7,7 +7,7 @@ Soy un desarrollador backend con experiencia en tecnologías modernas como Node.
 ---
 
 ## 🌟 Sobre mí
-- 🎯 Actualmente: **Backend Developer en Picnic Comunicación Creativa**.
+- 🎯 Actualmente: **aprendiendo cositas nuevas**.
 - 🔧 Tecnologías: Node.js, Express.js, Nest.js MySQL, MongoDB, JWT, AWS (EC2, S3), Azure DevOps.
 - 🌱 Aprendiendo: AWS Lambda y arquitectura serverless.
 - 🎨 Filosofía: **Clean Code** y principios **DRY** para un desarrollo sostenible y eficiente.
