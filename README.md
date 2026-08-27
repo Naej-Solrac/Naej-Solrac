@@ -1,37 +1,39 @@
-# 👋 ¡Hola! Soy Jean Carlos
+# 👋 ¡Hola! Soy Jean Carlos Gonzáles
 
-🚀 **Desarrollador Backend** | 💻 **Node.js, Express, APIs y Cloud Computing**
+🚀 **Backend Engineer** | 💻 **Node.js, AWS Serverless & Cloud Architecture**
 
-Soy un desarrollador backend con experiencia en tecnologías modernas como Node.js, Express.js y soluciones en la nube. Me apasiona crear APIs RESTful escalables, implementar integraciones eficientes y trabajar bajo metodologías ágiles para asegurar entregables de alta calidad. ¡Bienvenido a mi perfil de GitHub!
+Soy un Ingeniero de Software con 4 años de experiencia construyendo y escalando sistemas distribuidos de alta disponibilidad. Me especializo en el ecosistema Node.js y arquitecturas nativas en la nube (AWS), diseñando soluciones robustas bajo principios SOLID, Clean Code y Arquitectura Hexagonal.
 
 ---
 
 ## 🌟 Sobre mí
-- 🎯 Actualmente: **aprendiendo cositas nuevas**.
-- 🔧 Tecnologías: Node.js, Express.js, Nest.js MySQL, MongoDB, JWT, AWS (EC2, S3), Azure DevOps.
-- 🌱 Aprendiendo: AWS Lambda y arquitectura serverless.
-- 🎨 Filosofía: **Clean Code** y principios **DRY** para un desarrollo sostenible y eficiente.
-- 📍 Ubicación: Miraflores, Lima, Perú.
+
+- 🏗️ **Arquitectura y Diseño:** Amplia experiencia resolviendo lógicas complejas de negocio mediante **Domain-Driven Design (DDD)**, orquestación de transacciones (Patrón Saga) y **Event-Driven Architecture**.
+- ☁️ **Cloud & DevOps:** Orientado a la automatización. Defino infraestructura como código (**AWS CDK**) y construyo ecosistemas Serverless (Lambda, SQS, Step Functions).
+- 💼 **Actualmente:** Liderando la modernización de plataformas core y canales de venta corporativos en **Indra / Rimac Seguros**.
+- 🎓 **Educación:** Bachiller en Ingeniería de Software por la UTP.
+- 🏃‍♂️ **Fuera del código:** Desconectando de las pantallas entrenando *running* al aire libre junto a mi perro Blacky.
 
 ---
 
-## 🚀 Tecnologías que manejo
+## 🏆 Hitos Destacados
 
-| 💻 **Lenguajes**       | 🛠️ **Frameworks** | ☁️ **Cloud & DevOps**   | 🗄️ **Bases de Datos**     |
-|------------------------|--------------------|-------------------------|---------------------------|
-| JavaScript             | Express.js, Nest.js| AWS (EC2, S3), Azure    | MySQL, MongoDB, Sequelize |
-| Bash                   |                    | Google Cloud, Docker    | Redis (aprendiendo)       |
-
-
-## 📈 Estadísticas de GitHub
-
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naej-Solrac&show_icons=true&theme=radical)
+- **Optimización de Procesos:** Automaticé el flujo de cotización y endosos masivos (producto VidaLey), logrando una **mejora operativa del 90%** en tiempos de ejecución.
+- **Motores de Ejecución Aislada:** Diseñé una plataforma B2B con contenedores Docker y Node.js para compilar y ejecutar dinámicamente código en Java, C++, PHP y Python de forma segura.
+- **Migración y Refactorización:** Lideré migraciones de bases de datos hacia Oracle Cloud (OCI).
 
 ---
 
-## 📫 ¿Cómo contactarme?
+## 🚀 Stack Tecnológico
+
+| 💻 **Lenguajes**       | 🛠️ **Backend & Testing** | ☁️ **Cloud & DevOps**                             | 🗄️ **Bases de Datos** |
+| TypeScript, JavaScript | Node.js, Express, Nest.js | AWS (Lambda, API Gateway, S3, Step Functions, ECS) | MySQL, PostgreSQL     |
+| Java, Go (Golang)      | Jest, Cucumber (BDD)      | AWS CDK, SQS, Step Functions                       | MongoDB, DynamoDB     |
+| Python, Bash           | Swagger/OpenAPI, JWT      | Docker, Nginx, CI/CD                               | Oracle (OCI)          |
+
+---
+
+## 📫 ¿Conectamos?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jean-gonzales-malca/)
-- 📧 **Email**: naejgonzales@icloud.com
-
-¡Gracias por visitar mi perfil! 🚀
+- 📧 **Email**: jeangonzalesmalca@gmail.com
